@@ -28,5 +28,4 @@ Link Looker Studio: _tempel URL di sini_
 - **Top 5 branch** punya **rating cabang tinggi** tapi **rating transaksi rendah** → peluang perbaikan proses transaksi.
 - **Profit** terpusat di provinsi **Z** (lihat peta).
 
-**Lisensi & Kontak**  
-MIT (opsional). Kontak: _nama/email_.
+
