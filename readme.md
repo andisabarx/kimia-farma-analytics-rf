@@ -19,7 +19,7 @@ Evaluasi kinerja bisnis Kimia Farma 2020–2023 berbasis BigQuery + Looker Studi
 4. Jalankan `01_create_table_analisa.sql`, lalu jalankan view `02…07`.
 
 **Dashboard**  
-Link Looker Studio: _tempel URL di sini_  
+Link Looker Studio:[ _URL _ ](https://lookerstudio.google.com/reporting/0e37970a-d717-443d-9e29-ba5376bba8d5) 
 (Filter: Rentang Tanggal, Tahun, Provinsi, Branch Name. KPI: Total Revenue, Total Profit, #Transaksi, Avg Rating.)
 
 **Insight Singkat**
